@@ -8,6 +8,14 @@
 - Bundles SQLite MPI binary.
     - Currently only supports Mac OS.
 
+### License note
+    
+- The source code that produced the binaries at `./src/cdylib/*` is proprietary and closed source.
+    - A perpetual license for the source code can be arranged for a small fee, please contact emadda.dev@gmail.com.
+
+- The release binaries (`./src/cdylib/*`) themselves are licensed under MIT.
+            
+
 ### Example usage:
 
 ```js
