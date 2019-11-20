@@ -1,0 +1,24 @@
+{
+    "name": "smpi-iop-node-ffi",
+    "version": "0.0.1",
+    "main": "dist/index.js",
+    "scripts": {
+        "copy-assets": "cp -R src/cdylib dist/"
+    },
+    "author": "Enzo Madda",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sqlite-mpi/smpi-iop-node-ffi.git"
+    },
+    "homepage": "https://sqlitempi.com",
+    "dependencies": {
+        "@types/ffi": "^0.2.2",
+        "@types/node": "^12.0.10",
+        "ffi": "^2.3.0",
+        "path": "^0.12.7"
+    },
+    "devDependencies": {
+        "typescript": "^3.6.4"
+    }
+}
