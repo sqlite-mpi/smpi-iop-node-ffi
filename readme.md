@@ -10,11 +10,11 @@
 
 ### License note
     
-- The source code that produced the binaries at `./src/cdylib/*` is proprietary and closed source.
-    - A perpetual license for the source code can be arranged for a small fee, please contact emadda.dev@gmail.com.
+The shared library binaries (`./src/cdylib/*`) included in this repo are MIT licensed, but the source code that produced them is closed and proprietary.
 
-- The release binaries (`./src/cdylib/*`) themselves are licensed under MIT.
-            
+A perpetual license for the source code can be arranged for a small fee, please contact emadda.dev@gmail.com.
+
+See https://sqlitempi.com/license for more details.
 
 ### Example usage:
 
